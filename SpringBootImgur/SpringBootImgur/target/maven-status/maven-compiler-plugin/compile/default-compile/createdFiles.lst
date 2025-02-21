@@ -1,0 +1,9 @@
+dev\synchrony\user\user\service\UserServiceImpl.class
+dev\synchrony\user\user\UserApplication.class
+dev\synchrony\user\user\config\SecurityConfig.class
+dev\synchrony\user\user\exception\GlobalExceptionHandler.class
+dev\synchrony\user\user\model\User.class
+dev\synchrony\user\user\exception\customException\EmailAlreadyExistsException.class
+dev\synchrony\user\user\repository\UserRepository.class
+dev\synchrony\user\user\controller\UserController.class
+dev\synchrony\user\user\service\UserService.class
